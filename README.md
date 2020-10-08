@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on freedomtech
 - 🌱 I’m currently learning self-sovereign coinjoin applications like JoinMarket
 - 💬 Ask me about how to own your own data
-- 📫 How to reach me - **@nolim1t** on twitter / bitcoinhackers.org / telegram / wire messenger
+- 📫 How to reach me - **@nolim1t** on twitter / bitcoinhackers.org / telegram / wire messenger. You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff too.
 
 <!--
 **nolim1t/nolim1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
