@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 and welcome to the new facebook
+
+- 🔭 I’m currently working on freedomtech
+- 🌱 I’m currently learning self-sovereign coinjoin applications like JoinMarket
+- 💬 Ask me about how to own your own data
+- 📫 How to reach me - **@nolim1t** on twitter / bitcoinhackers.org / telegram / wire messenger
 
 <!--
 **nolim1t/nolim1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
