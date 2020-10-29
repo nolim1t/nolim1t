@@ -1,7 +1,7 @@
 ### Hi there 👋 and welcome to the new facebook
 
 - 🔭 I’m currently working on **self-sovereign freedomtech projects** as well **open source** that is builds are **fully verifiable**.
-- 🌱 I’m currently learning self-sovereign coinjoin applications like JoinMarket, and how to make things like this easier to use for others
+- 🌱 I’m currently improving my [Golang](gitlab.com/nolim1t/golang-httpd-test) so that I can leverage it to build lean, and self-sovereign coinjoin applications like JoinMarket, and how to make things like this easier to use for others.
 - 💬 Ask me about how to own your own data
 - 📫 How to reach me - **@nolim1t** on twitter / [bitcoinhackers.org](https://bitcoinhackers.org/@nolim1t) / telegram / wire messenger / discord (ID - `nolim1t#2650` or use this [server](https://discord.gg/64D2XTT) ). You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff to send to me by email at **hello** (at) myusername (dot) co
 
