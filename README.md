@@ -4,7 +4,7 @@
 - 🌱 I’m currently improving my [Golang](https://gitlab.com/nolim1t/golang-httpd-test) so that I can leverage it to build lean, and self-sovereign coinjoin applications like JoinMarket / lightning pool so people can rent their bitcoin liquidity for a fee! (Make money while you sleep and not get scammed!)
 - 💬 Ask me about how to own your own data
 - 📫 How to reach me - **@nolim1t** on twitter / [bitcoinhackers.org](https://bitcoinhackers.org/@nolim1t) / telegram / wire messenger / discord (ID - `nolim1t#2650` or use this [server](https://discord.gg/64D2XTT) ). You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff to send to me by email at **hello** (at) myusername (dot) co
-- You may support my work by a [lightning tip](https://nolim1t.co/tips/) or sending to PayNym **+sparklingunit76e**
+- You may support my work by a [lightning or on-chain tip](https://nolim1t.co/tips/) or sending to PayNym **+sparklingunit76e** . You may also send some coins to my [hodl address](https://blockstream.info/address/bc1qfu03xlgmezynuw2dwsvl6wagaw8ata9s9s3elfst2f36dtj23shql2vdsy) if you prefer to just send direct to a wallet.
 
 <!--
 **nolim1t/nolim1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
