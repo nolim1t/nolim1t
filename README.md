@@ -6,6 +6,9 @@
 - 📫 How to reach me - [mastodon @nolim1t@social.nolim1t.co](https://social.nolim1t.co/@nolim1t) / [telegram](https://t.me/nolim1tcoblog) / discord (ID - `nolim1t#2650` / matrix `@nolim1t:matrix.org` or use this [discord server](https://discord.gg/5E7MBGK) .. Don't forget to introduce yourself!). You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff to send to me by email at **hello** (at) myusername (dot) co or use this key to prove that comms are verified
 - You may support my work by a [lightning or on-chain tip](https://nolim1t.co/tips/) or sending to Samourai PayNym **+sparklingunit76e** . You may also send some coins to my [hodl address](https://blockchair.com/bitcoin/address/bc1qfu03xlgmezynuw2dwsvl6wagaw8ata9s9s3elfst2f36dtj23shql2vdsy) if you prefer to just send direct to a wallet or for those who want to try lightning network keysend, you may try [this out](https://1ml.com/node/02e64be984a252d82d71a84f0f2bb8be375207a0862e827dacb290977eca84078f). Or for the privacy freaks, you may try **44DVS1F1haNCisz6VN6RAugWfnULSvZpXZxv56Zeu3srf5BR4simzB1WrqJ9CkxcuL9d753MEBGGTMkekdx6gMUuAGDuiQu** on Monero.
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **nolim1t/nolim1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
