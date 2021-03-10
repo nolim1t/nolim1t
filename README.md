@@ -1,6 +1,6 @@
 ### Hi there 👋 and welcome to the new facebook
 
-- 🔭 I’m currently working on **self-sovereign freedomtech projects** as well **open source** that is builds are **fully verifiable**.
+- 🔭 I’m currently working on **self-sovereign freedomtech projects** as well **open source** that is builds are **fully verifiable**. I'm also available for hire for freelance type work in the blockchain space.
 - 🌱 I’m currently improving my [Golang](https://gitlab.com/nolim1t/golang-httpd-test) so that I can leverage it to build lean, and self-sovereign coinjoin applications like JoinMarket / lightning pool so people can rent their bitcoin liquidity for a fee! (Make money while you sleep and not get scammed!)
 - 💬 Ask me about how to own your own data
 - 📫 How to reach me - [mastodon @nolim1t@bitcoinhackers.org](https://bitcoinhackers.org/@nolim1t) / [telegram](https://t.me/nolim1tcoblog) / discord (ID - `nolim1t#2650` / matrix `@nolim1t:matrix.org` or use this [discord server](https://discord.gg/5E7MBGK) .. Don't forget to introduce yourself!). You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff to send to me by email at **hello** (at) myusername (dot) co or use this key to prove that comms are verified
