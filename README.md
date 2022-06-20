@@ -1,6 +1,6 @@
 ### Hi there 👋 and welcome to the new facebook
 
-- 🔭 I’m currently working on **self-sovereign freedomtech projects** as well **open source** that is builds are **fully verifiable**. I'm also available for hire for freelance type work in the blockchain space.
+- 🔭 I’m currently working on **self-sovereign freedomtech projects** as well **open source** that is builds are **fully verifiable**
 - 🌱 I'm focusing on building on Bitcoin (with a focus on the lightning network). Potentially looking at how to do layer 3 type stuff (Lapps)
 - 💬 Ask me about how to own your own data and be self sovereign. I also host a sovereignty meetup in Chiang Mai. Ask me on the following networks if you would like to join. Ideally matrix, as thats where I keep the group hosted.
 - 📫 How to reach me - [mastodon @nolim1t@bitcoinhackers.org](https://bitcoinhackers.org/@nolim1t) / [VIDA.live](https://vida.live/nolim1t) / discord (ID - `nolim1t#2650` / matrix `@nolim1t:matrix.nolim1t.co` / matrix `@nolim1t:converser.eu` or use this [discord server](https://discord.gg/5E7MBGK) .. Don't forget to introduce yourself!). You may use my [PGP key](https://nolim1t.co/key/pgpkey.asc.txt) to encrypt stuff to send to me by email at **hello** (at) myusername (dot) co or use this key to prove that comms are verified. **The ways of reaching me might be outdated, please refer to [this list](https://nolim1t.co/socialmedia.txt) for verified/signed ways of contacting**
